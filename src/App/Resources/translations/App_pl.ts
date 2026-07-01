@@ -75,7 +75,7 @@ Użytkownik powinien następnie kliknąć przycisk Odśwież na głównym pasku 
       <location filename="../../Link.cpp" line="119"/>
       <source>Stores the last user choice of whether to apply CopyOnChange setup to all link
 that links to the same configurable object</source>
-      <translation>Przechowuje ostatni wybór użytkownika, czy zastosować ustawienie "Kopiuj przy zmianie" do wszystkich łączy,
+      <translation>Przechowuje ostatni wybór użytkownika, określające, czy stosować ustawienie "Kopiuj przy zmianie" do wszystkich łączy,
 które odnoszą się do tego samego obiektu konfigurowalnego</translation>
     </message>
   </context>
